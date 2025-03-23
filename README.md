@@ -1,4 +1,4 @@
-# LWS Task Manager
+# Task Manager
 
 A single-page application (SPA) for managing tasks, built with React, Redux Toolkit (RTK Query), Tailwind CSS, and Vite. This project implements the following features:
 
